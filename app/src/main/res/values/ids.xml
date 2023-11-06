@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="name" type="id" />
+    <item name="birth" type="id" />
+    <item name="adress" type="id" />
+    <item name="email" type="id" />
+    <item name="contact" type="id" />
+    <item name="skil1" type="id" />
+    <item name="skil2" type="id" />
+    <item name="skil3" type="id" />
+    <item name="objective" type="id" />
+    <item name="degree" type="id" />
+    <item name="collage" type="id" />
+    <item name="passing" type="id" />
+    <item name="percentage" type="id" />
+    <item name="hobby1" type="id" />
+    <item name="hobby2" type="id" />
+    <item name="hobby3" type="id" />
+    <item name="txtbtn" type="id" />
+    <item name="txtyear" type="id" />
+    <item name="year" type="id" />
+</resources>
